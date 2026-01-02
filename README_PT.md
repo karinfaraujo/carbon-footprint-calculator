@@ -1,6 +1,6 @@
 # 🌱 Calculadora de Pegada de Carbono
 
-🔗 **Demosntração online**: https://karinfaraujo.github.io/carbon-footprint-calculator/
+🔗 **Demonstração online**: https://karinfaraujo.github.io/carbon-footprint-calculator/
 
 Uma aplicação web que calcula a estimativa de emissão de CO₂ com base na distância percorrida e no tipo de transporte utilizado.
 Este projeto foi desenvolvido com foco em boas práticas de código, organização e sustentabilidade.
@@ -119,4 +119,5 @@ Estudante de Análise de Dados & Desenvolvedora Front-End
 ---
 
 Caso queira, você pode manter este arquivo como complemento ao `README.md` em inglês.
+
 
