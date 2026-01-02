@@ -1,5 +1,7 @@
 # 🌱 Carbon Footprint Calculator
 
+🔗 **Live Demo:** https://karinfaraujo.github.io/carbon-footprint-calculator/
+
 A web-based application that calculates estimated CO₂ emissions based on travel distance and transportation type.
 This project was built with a clean and modular architecture, focusing on sustainability, usability, and code clarity.
 
